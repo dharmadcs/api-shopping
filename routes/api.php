@@ -24,5 +24,4 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::get('/profile', function (Request $request) {
         return $request->user();
     });
-
 });
