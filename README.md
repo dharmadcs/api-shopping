@@ -27,3 +27,6 @@ Shop :
 ## Note
 - File bisa dilihat di folder PANDUAN
 - File sql saya sertakan (shoppingdb.sql) atau bisa migrate ulang dengan konfig di .env
+- perintah 1 : composer install
+- perintah 2 : php artisan migrate
+- perintah 3 : php artisan serve
